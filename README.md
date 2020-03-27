@@ -1,2 +1,2 @@
-# wawa2102
+# Risk Project
 Risk Project (Week 1)
